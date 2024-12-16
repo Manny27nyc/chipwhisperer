@@ -1,5 +1,5 @@
 # configobj required for project stuff, date stuff for projects, sphinx_rtd_theme for proper syntax highlighting
-configobj==5.0.6
+configobj==5.0.9
 iso8601==0.1.12
 numpy>=1.14.0
 pycryptodome>=3.7.0
